@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**It is Kannospark! I'm an undergraduate student with great interest in AI and robotics!
+***It is Kannospark! I'm an undergraduate student with great interest in AI and robotics!***
 
 - 🔭 I’m currently studying on Automation.
 - 🌱 I’m currently learning image processing
