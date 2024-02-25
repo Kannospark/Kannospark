@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Kannospark/Kannospark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**It is Kannospark! I'm an undergraduate student with great interest in AI and robotics!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying on Automation.
+- 🌱 I’m currently learning image processing
+- 👯 I’m looking to collaborate on ultraterreno.
+- 📫 How to reach me: 12112707@mail.sustech.edu.cn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kannospark&show_icons=true&theme=dracula" />
+    </td>
+  </tr>
+</table>
