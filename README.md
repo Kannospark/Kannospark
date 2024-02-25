@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying on Automation.
 - 🌱 I’m currently learning image processing
 - 👯 I’m looking to collaborate on ultraterreno.
-- 📫 How to reach me: 123061577+Kannospark@users.noreply.github.com
+- 📫 How to reach me: 12112707@mail.sustech.edu.cn
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
