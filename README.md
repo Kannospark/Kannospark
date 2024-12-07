@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-***It is Kannospark, you can all me GG Bound!***
+***It is Kanno!***
 
 - 🔭 UG and Major in Automation.
 - 📫 How to reach me: zhongzx2021@mail.sustech.edu.cn
